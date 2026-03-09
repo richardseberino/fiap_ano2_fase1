@@ -12,7 +12,6 @@
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/richard-marques-26b3a14/">Richard</a>
-- <a href="https://www.linkedin.com/in/lucasmedeirosleite">Lucas Medeiros</a> 
 - <a href="https://www.linkedin.com/in/luis-fernando-dos-santos-costa-b69894365/">Luis</a>
 
 ## 👩‍🏫 Professores:
