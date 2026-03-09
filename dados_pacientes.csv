@@ -1,0 +1,301 @@
+ID,Idade,Sexo,Pressao_Arterial_Sistolica,Colesterol,Historico_Cardiaco,Sintomas,Frequencia_Cardiaca_Repouso,Diabetes
+1,69,Masculino,101,227,Nao,Dor no Peito,95,Nao
+2,32,Masculino,114,279,Nao,Fadiga,67,Nao
+3,89,Feminino,141,258,Sim,Assintomatico,84,Nao
+4,78,Feminino,174,303,Sim,Fadiga,87,Sim
+5,38,Masculino,142,163,Sim,Dor no Peito,67,Nao
+6,41,Masculino,112,205,Nao,Assintomatico,80,Sim
+7,20,Feminino,105,264,Nao,Falta de Ar,76,Nao
+8,39,Masculino,146,156,Nao,Dor no Peito,93,Nao
+9,70,Feminino,128,152,Nao,Falta de Ar,56,Nao
+10,19,Masculino,142,260,Nao,Fadiga,92,Nao
+11,47,Feminino,131,300,Nao,Fadiga,93,Nao
+12,55,Masculino,147,256,Sim,Dor no Peito,80,Nao
+13,19,Feminino,128,167,Sim,Fadiga,100,Nao
+14,81,Masculino,103,187,Nao,Falta de Ar,104,Nao
+15,77,Feminino,94,264,Nao,Assintomatico,69,Nao
+16,38,Feminino,124,164,Nao,Assintomatico,88,Sim
+17,50,Masculino,176,268,Nao,Assintomatico,96,Nao
+18,75,Masculino,164,177,Nao,Dor no Peito,98,Nao
+19,39,Feminino,107,188,Nao,Fadiga,103,Nao
+20,66,Masculino,165,166,Nao,Falta de Ar,94,Nao
+21,76,Feminino,98,235,Nao,Fadiga,65,Nao
+22,59,Masculino,163,275,Nao,Fadiga,57,Nao
+23,77,Feminino,147,193,Nao,Fadiga,60,Nao
+24,32,Feminino,106,174,Sim,Assintomatico,63,Nao
+25,79,Feminino,96,294,Nao,Falta de Ar,60,Sim
+26,79,Feminino,135,162,Nao,Falta de Ar,63,Nao
+27,64,Feminino,102,174,Nao,Fadiga,93,Nao
+28,79,Feminino,129,217,Nao,Assintomatico,85,Nao
+29,68,Masculino,131,287,Nao,Assintomatico,86,Nao
+30,72,Masculino,98,216,Nao,Falta de Ar,95,Nao
+31,81,Masculino,139,258,Sim,Assintomatico,104,Nao
+32,20,Feminino,116,295,Nao,Assintomatico,66,Nao
+33,68,Feminino,155,260,Sim,Assintomatico,62,Nao
+34,24,Feminino,94,260,Nao,Dor no Peito,62,Nao
+35,38,Feminino,118,183,Sim,Fadiga,104,Nao
+36,90,Masculino,126,260,Nao,Falta de Ar,82,Sim
+37,56,Masculino,127,157,Nao,Falta de Ar,74,Sim
+38,35,Feminino,172,317,Nao,Dor no Peito,101,Sim
+39,21,Masculino,97,262,Nao,Fadiga,61,Nao
+40,77,Masculino,154,232,Nao,Falta de Ar,65,Nao
+41,31,Feminino,175,191,Nao,Assintomatico,74,Nao
+42,26,Masculino,106,318,Nao,Falta de Ar,70,Nao
+43,70,Feminino,160,250,Nao,Assintomatico,58,Sim
+44,19,Masculino,178,155,Sim,Dor no Peito,60,Nao
+45,77,Feminino,134,175,Sim,Assintomatico,76,Nao
+46,88,Feminino,93,213,Nao,Falta de Ar,80,Sim
+47,61,Feminino,125,208,Nao,Falta de Ar,57,Nao
+48,25,Feminino,159,258,Nao,Falta de Ar,95,Nao
+49,64,Masculino,120,270,Nao,Dor no Peito,96,Nao
+50,52,Feminino,108,182,Nao,Dor no Peito,68,Nao
+51,53,Feminino,150,299,Nao,Fadiga,65,Nao
+52,67,Feminino,143,170,Nao,Falta de Ar,72,Nao
+53,21,Masculino,128,219,Nao,Assintomatico,66,Nao
+54,19,Feminino,180,261,Nao,Dor no Peito,77,Nao
+55,23,Masculino,163,153,Nao,Falta de Ar,66,Nao
+56,71,Feminino,179,243,Nao,Falta de Ar,67,Nao
+57,21,Masculino,108,224,Nao,Dor no Peito,79,Nao
+58,71,Masculino,128,211,Nao,Fadiga,99,Sim
+59,80,Feminino,156,243,Sim,Dor no Peito,73,Sim
+60,35,Masculino,134,244,Nao,Dor no Peito,100,Nao
+61,61,Feminino,102,301,Nao,Assintomatico,90,Sim
+62,51,Feminino,147,204,Sim,Assintomatico,99,Nao
+63,79,Feminino,109,286,Nao,Fadiga,62,Nao
+64,31,Masculino,161,280,Nao,Falta de Ar,83,Sim
+65,65,Masculino,150,180,Nao,Dor no Peito,86,Nao
+66,32,Feminino,128,189,Sim,Fadiga,98,Nao
+67,89,Feminino,90,185,Nao,Assintomatico,72,Nao
+68,79,Masculino,92,301,Nao,Dor no Peito,60,Nao
+69,57,Feminino,166,155,Nao,Falta de Ar,72,Nao
+70,70,Feminino,151,215,Nao,Assintomatico,73,Nao
+71,41,Feminino,152,224,Nao,Assintomatico,76,Sim
+72,43,Masculino,114,153,Nao,Assintomatico,91,Nao
+73,77,Masculino,145,228,Nao,Fadiga,86,Nao
+74,58,Masculino,122,283,Nao,Falta de Ar,95,Nao
+75,46,Feminino,127,267,Sim,Dor no Peito,57,Nao
+76,32,Feminino,95,262,Nao,Fadiga,82,Nao
+77,62,Feminino,147,243,Nao,Fadiga,64,Nao
+78,82,Masculino,133,211,Nao,Fadiga,89,Nao
+79,88,Feminino,134,228,Nao,Assintomatico,83,Nao
+80,26,Feminino,121,285,Nao,Falta de Ar,69,Nao
+81,18,Feminino,134,175,Sim,Fadiga,87,Nao
+82,25,Feminino,150,193,Nao,Dor no Peito,61,Nao
+83,80,Masculino,136,282,Nao,Falta de Ar,66,Nao
+84,28,Masculino,110,219,Sim,Dor no Peito,103,Nao
+85,25,Feminino,169,303,Nao,Falta de Ar,84,Nao
+86,52,Masculino,174,267,Nao,Dor no Peito,75,Nao
+87,52,Masculino,164,217,Nao,Assintomatico,85,Nao
+88,50,Feminino,125,168,Sim,Fadiga,78,Nao
+89,22,Feminino,108,169,Nao,Dor no Peito,74,Nao
+90,58,Masculino,109,262,Nao,Falta de Ar,91,Sim
+91,45,Feminino,146,289,Nao,Fadiga,58,Nao
+92,24,Masculino,107,196,Nao,Fadiga,82,Nao
+93,90,Feminino,136,150,Nao,Falta de Ar,98,Nao
+94,89,Masculino,138,239,Sim,Dor no Peito,74,Sim
+95,29,Feminino,103,291,Nao,Assintomatico,78,Nao
+96,51,Masculino,104,213,Nao,Assintomatico,104,Nao
+97,50,Masculino,120,187,Sim,Dor no Peito,103,Nao
+98,65,Masculino,90,186,Nao,Fadiga,86,Sim
+99,40,Feminino,143,275,Nao,Fadiga,95,Sim
+100,79,Masculino,92,288,Nao,Fadiga,90,Nao
+101,54,Masculino,105,249,Nao,Fadiga,88,Nao
+102,61,Feminino,176,226,Nao,Dor no Peito,90,Nao
+103,52,Feminino,146,152,Nao,Fadiga,56,Nao
+104,82,Masculino,164,310,Nao,Falta de Ar,69,Nao
+105,64,Masculino,101,283,Sim,Fadiga,88,Nao
+106,20,Feminino,163,159,Nao,Assintomatico,90,Nao
+107,18,Feminino,105,154,Nao,Fadiga,60,Nao
+108,22,Feminino,161,300,Nao,Dor no Peito,93,Sim
+109,31,Feminino,165,287,Sim,Assintomatico,96,Nao
+110,44,Feminino,113,279,Sim,Dor no Peito,66,Nao
+111,26,Masculino,117,162,Sim,Dor no Peito,57,Nao
+112,32,Feminino,97,317,Sim,Assintomatico,99,Nao
+113,59,Masculino,125,279,Nao,Dor no Peito,72,Nao
+114,68,Masculino,179,233,Sim,Dor no Peito,94,Nao
+115,80,Masculino,97,214,Nao,Fadiga,75,Sim
+116,69,Feminino,147,212,Nao,Falta de Ar,69,Sim
+117,21,Masculino,149,250,Nao,Dor no Peito,87,Nao
+118,40,Masculino,139,222,Nao,Dor no Peito,89,Nao
+119,32,Feminino,117,166,Nao,Dor no Peito,80,Nao
+120,60,Masculino,130,158,Nao,Fadiga,62,Sim
+121,46,Masculino,153,292,Nao,Falta de Ar,90,Sim
+122,53,Feminino,116,301,Nao,Assintomatico,102,Nao
+123,30,Masculino,152,187,Nao,Fadiga,84,Sim
+124,49,Masculino,106,312,Sim,Fadiga,77,Nao
+125,88,Masculino,162,243,Sim,Falta de Ar,96,Nao
+126,76,Feminino,122,244,Nao,Falta de Ar,98,Nao
+127,45,Feminino,173,198,Sim,Fadiga,68,Sim
+128,83,Feminino,166,218,Nao,Assintomatico,68,Nao
+129,59,Masculino,118,211,Nao,Fadiga,56,Sim
+130,62,Masculino,102,227,Nao,Falta de Ar,91,Nao
+131,79,Feminino,135,266,Nao,Assintomatico,59,Nao
+132,74,Masculino,124,269,Nao,Falta de Ar,92,Nao
+133,23,Masculino,95,286,Nao,Assintomatico,99,Nao
+134,45,Feminino,171,311,Nao,Dor no Peito,95,Nao
+135,45,Feminino,158,225,Nao,Falta de Ar,101,Nao
+136,61,Masculino,136,184,Sim,Falta de Ar,68,Nao
+137,47,Masculino,114,150,Nao,Fadiga,93,Nao
+138,79,Masculino,155,189,Sim,Falta de Ar,79,Nao
+139,79,Feminino,99,213,Nao,Falta de Ar,74,Nao
+140,18,Feminino,145,299,Sim,Dor no Peito,56,Nao
+141,44,Feminino,119,209,Nao,Falta de Ar,93,Nao
+142,79,Feminino,94,213,Nao,Dor no Peito,60,Nao
+143,20,Masculino,122,242,Nao,Dor no Peito,71,Nao
+144,87,Feminino,154,221,Sim,Dor no Peito,79,Sim
+145,89,Feminino,107,160,Nao,Dor no Peito,82,Nao
+146,44,Feminino,138,254,Nao,Assintomatico,56,Nao
+147,26,Feminino,100,163,Nao,Fadiga,89,Sim
+148,79,Feminino,174,209,Nao,Assintomatico,91,Nao
+149,54,Masculino,115,179,Nao,Falta de Ar,59,Nao
+150,68,Masculino,152,184,Nao,Assintomatico,55,Nao
+151,61,Feminino,178,314,Nao,Assintomatico,94,Sim
+152,41,Masculino,175,154,Nao,Falta de Ar,66,Nao
+153,76,Feminino,148,232,Sim,Falta de Ar,90,Nao
+154,49,Feminino,116,272,Sim,Falta de Ar,99,Nao
+155,69,Masculino,138,227,Sim,Assintomatico,77,Nao
+156,79,Masculino,166,303,Nao,Assintomatico,101,Nao
+157,75,Feminino,122,211,Sim,Falta de Ar,85,Nao
+158,69,Feminino,90,281,Sim,Fadiga,65,Nao
+159,29,Feminino,110,238,Nao,Fadiga,64,Nao
+160,56,Masculino,144,191,Nao,Dor no Peito,57,Sim
+161,19,Feminino,95,238,Nao,Falta de Ar,68,Nao
+162,20,Feminino,170,295,Nao,Dor no Peito,70,Nao
+163,73,Feminino,158,189,Nao,Fadiga,64,Nao
+164,76,Masculino,94,221,Nao,Dor no Peito,83,Nao
+165,19,Feminino,92,188,Sim,Falta de Ar,64,Nao
+166,19,Feminino,142,253,Nao,Falta de Ar,66,Nao
+167,71,Masculino,112,163,Nao,Falta de Ar,84,Sim
+168,18,Feminino,142,181,Nao,Assintomatico,95,Nao
+169,36,Feminino,126,274,Nao,Dor no Peito,55,Sim
+170,19,Masculino,163,315,Nao,Fadiga,59,Nao
+171,70,Feminino,163,246,Nao,Fadiga,74,Nao
+172,61,Masculino,172,172,Nao,Fadiga,62,Nao
+173,49,Masculino,106,212,Nao,Assintomatico,97,Sim
+174,87,Feminino,174,292,Nao,Assintomatico,66,Nao
+175,49,Feminino,167,302,Nao,Falta de Ar,55,Nao
+176,85,Feminino,162,294,Sim,Fadiga,74,Nao
+177,72,Feminino,90,202,Nao,Assintomatico,82,Sim
+178,73,Masculino,140,253,Sim,Falta de Ar,97,Nao
+179,34,Feminino,134,253,Nao,Fadiga,91,Nao
+180,55,Masculino,166,188,Nao,Dor no Peito,101,Nao
+181,41,Feminino,93,283,Nao,Falta de Ar,91,Nao
+182,86,Feminino,151,216,Nao,Assintomatico,66,Nao
+183,87,Feminino,154,284,Nao,Assintomatico,91,Nao
+184,28,Masculino,121,191,Sim,Falta de Ar,103,Nao
+185,33,Feminino,123,164,Nao,Falta de Ar,103,Nao
+186,90,Feminino,161,260,Sim,Assintomatico,98,Nao
+187,76,Feminino,128,306,Sim,Dor no Peito,82,Nao
+188,87,Feminino,115,182,Nao,Fadiga,101,Nao
+189,20,Masculino,123,304,Nao,Dor no Peito,69,Nao
+190,37,Feminino,143,313,Nao,Falta de Ar,60,Nao
+191,76,Masculino,92,306,Sim,Dor no Peito,98,Sim
+192,53,Masculino,139,187,Nao,Assintomatico,74,Nao
+193,36,Masculino,101,246,Nao,Falta de Ar,104,Nao
+194,84,Masculino,154,304,Nao,Fadiga,68,Nao
+195,36,Masculino,143,182,Nao,Assintomatico,56,Nao
+196,37,Masculino,94,235,Nao,Assintomatico,63,Nao
+197,88,Feminino,146,215,Nao,Fadiga,91,Nao
+198,69,Masculino,106,159,Nao,Fadiga,74,Nao
+199,50,Masculino,136,154,Nao,Dor no Peito,80,Sim
+200,57,Masculino,112,272,Nao,Falta de Ar,83,Nao
+201,56,Feminino,168,223,Nao,Fadiga,55,Sim
+202,18,Feminino,174,246,Nao,Fadiga,89,Nao
+203,28,Masculino,103,267,Nao,Falta de Ar,60,Nao
+204,74,Feminino,155,187,Nao,Fadiga,91,Nao
+205,67,Masculino,164,290,Nao,Fadiga,59,Nao
+206,40,Masculino,140,308,Nao,Dor no Peito,87,Nao
+207,48,Feminino,127,196,Nao,Assintomatico,103,Sim
+208,59,Masculino,153,258,Nao,Assintomatico,68,Nao
+209,24,Feminino,127,164,Nao,Assintomatico,66,Nao
+210,33,Feminino,139,306,Nao,Assintomatico,96,Nao
+211,77,Masculino,171,285,Nao,Fadiga,74,Nao
+212,19,Masculino,119,154,Nao,Falta de Ar,104,Nao
+213,18,Feminino,168,306,Nao,Falta de Ar,78,Sim
+214,65,Masculino,180,196,Sim,Dor no Peito,97,Nao
+215,29,Masculino,140,217,Sim,Dor no Peito,88,Nao
+216,86,Masculino,152,225,Nao,Fadiga,79,Sim
+217,54,Feminino,141,279,Nao,Falta de Ar,104,Nao
+218,49,Feminino,127,304,Sim,Falta de Ar,83,Sim
+219,26,Masculino,177,244,Sim,Assintomatico,93,Sim
+220,36,Feminino,168,264,Sim,Fadiga,85,Sim
+221,65,Feminino,119,313,Sim,Fadiga,101,Nao
+222,20,Feminino,140,185,Sim,Assintomatico,97,Nao
+223,37,Feminino,170,175,Nao,Fadiga,104,Nao
+224,41,Feminino,94,192,Nao,Fadiga,77,Nao
+225,71,Masculino,118,176,Sim,Dor no Peito,98,Nao
+226,50,Masculino,93,218,Nao,Falta de Ar,92,Nao
+227,41,Masculino,99,297,Sim,Fadiga,74,Nao
+228,89,Feminino,145,160,Nao,Dor no Peito,77,Sim
+229,53,Feminino,106,223,Nao,Falta de Ar,99,Nao
+230,55,Masculino,163,253,Nao,Assintomatico,70,Nao
+231,42,Feminino,106,187,Sim,Dor no Peito,104,Nao
+232,35,Masculino,173,283,Nao,Dor no Peito,96,Nao
+233,83,Masculino,177,172,Sim,Falta de Ar,62,Sim
+234,71,Masculino,158,196,Nao,Assintomatico,104,Sim
+235,52,Feminino,123,239,Nao,Dor no Peito,75,Nao
+236,78,Feminino,95,195,Nao,Fadiga,55,Nao
+237,58,Masculino,142,256,Sim,Fadiga,62,Sim
+238,50,Masculino,155,289,Nao,Fadiga,83,Nao
+239,85,Masculino,166,290,Sim,Assintomatico,86,Sim
+240,50,Masculino,132,253,Sim,Dor no Peito,92,Nao
+241,31,Feminino,164,260,Nao,Fadiga,59,Nao
+242,38,Feminino,112,253,Sim,Assintomatico,101,Nao
+243,65,Masculino,144,209,Nao,Fadiga,76,Sim
+244,37,Masculino,169,320,Nao,Falta de Ar,101,Sim
+245,25,Feminino,164,249,Sim,Dor no Peito,88,Nao
+246,24,Feminino,105,217,Nao,Dor no Peito,55,Sim
+247,84,Masculino,97,282,Nao,Assintomatico,80,Nao
+248,34,Masculino,93,269,Nao,Assintomatico,97,Sim
+249,50,Masculino,93,186,Nao,Dor no Peito,64,Nao
+250,65,Feminino,145,221,Nao,Fadiga,84,Nao
+251,76,Feminino,114,276,Nao,Fadiga,104,Nao
+252,39,Feminino,156,255,Nao,Falta de Ar,72,Nao
+253,47,Masculino,156,241,Sim,Fadiga,71,Nao
+254,55,Masculino,116,180,Nao,Assintomatico,80,Nao
+255,68,Feminino,121,271,Nao,Assintomatico,62,Nao
+256,71,Feminino,139,286,Sim,Fadiga,101,Nao
+257,25,Masculino,150,200,Nao,Assintomatico,94,Sim
+258,44,Feminino,140,178,Sim,Dor no Peito,103,Nao
+259,44,Feminino,108,189,Sim,Dor no Peito,66,Nao
+260,38,Masculino,110,190,Nao,Fadiga,81,Sim
+261,47,Feminino,94,160,Sim,Dor no Peito,62,Nao
+262,45,Masculino,171,300,Nao,Dor no Peito,79,Nao
+263,81,Masculino,131,150,Nao,Falta de Ar,100,Nao
+264,86,Masculino,150,195,Nao,Falta de Ar,58,Nao
+265,78,Masculino,111,250,Nao,Dor no Peito,87,Nao
+266,65,Masculino,110,298,Sim,Fadiga,55,Sim
+267,36,Masculino,159,239,Nao,Falta de Ar,73,Nao
+268,21,Masculino,90,259,Nao,Assintomatico,85,Nao
+269,52,Feminino,94,313,Nao,Assintomatico,70,Sim
+270,81,Masculino,101,206,Sim,Assintomatico,68,Nao
+271,66,Masculino,179,150,Nao,Fadiga,102,Nao
+272,34,Feminino,135,212,Nao,Dor no Peito,59,Sim
+273,61,Feminino,123,204,Nao,Assintomatico,95,Nao
+274,47,Feminino,138,264,Nao,Fadiga,80,Nao
+275,63,Masculino,167,317,Nao,Falta de Ar,82,Sim
+276,23,Feminino,179,292,Nao,Dor no Peito,56,Nao
+277,54,Masculino,134,298,Nao,Falta de Ar,104,Nao
+278,41,Masculino,116,202,Sim,Fadiga,60,Nao
+279,63,Masculino,162,286,Nao,Assintomatico,63,Nao
+280,70,Masculino,115,206,Nao,Assintomatico,87,Nao
+281,77,Feminino,136,266,Nao,Fadiga,95,Sim
+282,80,Feminino,175,303,Nao,Assintomatico,79,Nao
+283,49,Masculino,145,318,Sim,Dor no Peito,102,Nao
+284,50,Masculino,152,184,Nao,Fadiga,67,Nao
+285,84,Masculino,137,212,Sim,Falta de Ar,63,Sim
+286,35,Feminino,150,174,Nao,Fadiga,67,Nao
+287,42,Masculino,170,239,Sim,Dor no Peito,85,Sim
+288,71,Masculino,115,224,Nao,Dor no Peito,95,Nao
+289,75,Feminino,125,187,Nao,Fadiga,65,Nao
+290,84,Feminino,90,279,Nao,Fadiga,58,Nao
+291,63,Masculino,97,284,Sim,Assintomatico,88,Nao
+292,41,Feminino,141,311,Sim,Dor no Peito,92,Nao
+293,49,Feminino,168,240,Sim,Fadiga,100,Nao
+294,64,Masculino,136,166,Nao,Fadiga,58,Nao
+295,40,Feminino,145,277,Sim,Dor no Peito,92,Nao
+296,83,Masculino,175,320,Nao,Fadiga,73,Nao
+297,44,Feminino,103,257,Nao,Assintomatico,60,Nao
+298,19,Masculino,179,301,Sim,Dor no Peito,88,Nao
+299,34,Masculino,117,174,Nao,Assintomatico,72,Nao
+300,50,Masculino,176,237,Nao,Assintomatico,67,Nao

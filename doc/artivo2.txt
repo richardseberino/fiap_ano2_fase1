@@ -1,0 +1,75 @@
+Carga global da cardiopatia isquêmica atribuível a riscos dietéticos em adultos jovens, 1990–2021: tendências e projeções futuras
+Resumo (Background)
+
+A cardiopatia isquêmica (CI) está impondo uma carga global crescente sobre adultos jovens, para os quais os fatores dietéticos representam um alvo preventivo proeminente e viável. Este estudo investigou a carga global e as tendências da CI atribuível a riscos dietéticos entre adultos jovens de 1990 a 2021, com projeções até 2031.
+
+Métodos
+
+Os dados para este estudo, provenientes do Global Burden of Disease (GBD) 2021, analisaram de forma abrangente a carga da cardiopatia isquêmica (CI) devido a fatores dietéticos em adultos jovens. As tendências temporais foram avaliadas utilizando mudanças percentuais anuais estimadas (EAPCs), enquanto as tendências futuras foram projetadas usando um modelo de Média Móvel Integrada Autorregressiva (ARIMA).
+
+Resultados
+
+Globalmente, em 2021, as taxas de mortalidade e de DALYs (Anos de Vida Ajustados por Incapacidade) por CI relacionadas à dieta entre adultos jovens foram de 9,48 e 465,57, respectivamente, com os homens suportando uma carga maior que as mulheres. De 1990 a 2021, tanto as taxas de mortalidade quanto as de DALYs demonstraram declínios consistentes. A região de Índice Sociodemográfico (SDI) baixo-médio e a Europa Oriental exibiram a maior carga de CI entre as cinco regiões de SDI e as 21 regiões do GBD, respectivamente. Uma dieta pobre em grãos integrais foi identificada como o principal fator de risco dietético para a carga de CI, enquanto o alto consumo de bebidas açucaradas permaneceu como o único fator de risco dietético demonstrando uma tendência de alta. As projeções sugerem que, até 2031, a taxa de mortalidade global por CI relacionada à dieta entre adultos jovens diminuirá 4,58%, enquanto a taxa de DALYs deve aumentar 0,34%.
+
+Conclusão
+
+Esta descoberta ressalta a necessidade crítica de intervenções dietéticas direcionadas, visando reduzir o risco de CI, particularmente entre adultos jovens em escala global.
+
+Palavras-chave: riscos dietéticos, previsão, carga global de doenças, cardiopatia isquêmica, adultos jovens.
+
+1. Introdução
+
+A cardiopatia isquêmica (CI) refere-se a uma doença cardiovascular caracterizada por uma discrepância entre a oferta de oxigênio ao miocárdio e sua demanda, causada por aterosclerose coronária com estenose luminal e disfunção endotelial. Em adultos jovens, a disfunção endotelial não apenas prejudica a vasodilatação coronariana, mas também promove a trombose. Além disso, essas alterações funcionais podem precipitar a formação aguda de trombos mesmo em placas minimamente estenóticas. Segundo a Organização Mundial da Saúde (OMS), a CI contribui para 13% de todas as mortes globalmente. Desde o ano 2000, o número de mortes por CI tem aumentado continuamente, atingindo 9,1 milhões em 2021. A carga da CI está tendendo cada vez mais para grupos de idade mais jovem.
+
+Os riscos dietéticos — incluindo a alta ingestão de gordura, açúcar e sal — aumentam o risco de doenças cardiovasculares (DCV) ao elevar o colesterol LDL, prejudicar a função endotelial vascular e aumentar o estresse oxidativo. Esse risco é particularmente pertinente dada a preferência prevalecente entre os jovens contemporâneos por alimentos doces e salgados. Dados indicam que, em 2019, a proporção afetada por riscos dietéticos estava em ascensão.
+
+No entanto, há atualmente uma carência de pesquisas sobre a distribuição global da CI relacionada a riscos dietéticos especificamente entre jovens. Para preencher essa lacuna, este estudo visa analisar a carga global de CI entre adultos jovens devido a 13 fatores de risco dietéticos, examinando as diferenças demográficas e socioeconômicas para orientar a formulação de diretrizes dietéticas.
+
+2. Métodos
+
+2.1. Fontes de dados e definições
+O GBD 2021 quantifica perdas de saúde e fornece estimativas sistemáticas de 371 doenças e lesões. Devido à indisponibilidade de estimativas para a faixa de 15 a 24 anos no banco de dados, este estudo focou em adultos de 25 a 49 anos, que representam a força de trabalho principal e estão em seu ápice fisiológico. Os dados foram obtidos da ferramenta de consulta Global Health Data Exchange, cobrindo 5 níveis de SDI, 21 regiões GBD e 204 países/territórios.
+
+2.2. Riscos dietéticos
+O GBD 2021 classifica os riscos em comportamentais, ambientais/ocupacionais e metabólicos. Foram analisados 13 riscos dietéticos associados à CI, incluindo dietas pobres em grãos integrais, vegetais, frutos do mar (ômega-3), frutas, leguminosas, nozes e sementes, ácidos graxos poli-insaturados e fibras; e dietas ricas em gorduras trans, bebidas açucaradas, sódio, carne processada e carne vermelha.
+
+2.3. Análise estatística
+Variáveis como taxas de mortalidade e DALYs foram utilizadas. As tendências temporais de 1990 a 2021 foram analisadas usando EAPCs calculados através de um modelo de regressão semilogarítmica. O modelo ARIMA foi utilizado para projetar a mortalidade e DALYs para o período de 2022 a 2031.
+
+3. Resultados
+
+3.1. Carga global (1990-2021)
+Globalmente, a taxa de mortalidade por CI relacionada à dieta entre jovens caiu de 10,23 em 1990 para 9,48 em 2021. A taxa de DALYs também diminuiu. Entre os 13 riscos, a dieta pobre em grãos integrais, frutas e nozes/sementes foi a mais significativa em 2021. Notavelmente, apenas as dietas ricas em bebidas açucaradas mostraram uma tendência de aumento. O declínio mais substancial foi observado no consumo de carne processada.
+
+3.2. Carga por gênero
+Em ambos os anos, as taxas foram maiores entre homens jovens do que mulheres. O declínio na mortalidade e nos DALYs foi mais pronunciado entre as mulheres durante o período analisado.
+
+3.3. Carga por regiões GBD
+Em 2021, a Ásia-Pacífico de alta renda exibiu as taxas mais baixas, enquanto a Europa Oriental mostrou as mais altas. O declínio mais acentuado ocorreu na Europa Central, enquanto o aumento mais significativo foi observado no Leste Asiático.
+
+3.4. Carga por valores de SDI
+Regiões com SDI baixo-médio mostraram a maior carga em 2021. As regiões de SDI alto tiveram as menores taxas. A dieta pobre em grãos integrais representou a maior proporção de risco em todas as 5 regiões de SDI. Apenas as regiões de SDI médio exibiram uma tendência de alta na CI atribuível a riscos dietéticos.
+
+3.5. Carga por país
+Nauru exibiu as taxas mais altas de mortalidade e DALYs em 2021. Em contrapartida, a Suécia apresentou as menores. Os maiores aumentos foram observados no Zimbábue, enquanto os declínios mais significativos ocorreram na Estônia.
+
+3.6. Projeções (2022–2031)
+O modelo ARIMA projeta que a taxa de mortalidade por CI relacionada à dieta continuará a declinar na próxima década (redução de 4,85%), enquanto a taxa de DALYs deve se estabilizar, com um leve aumento de 0,34%.
+
+4. Discussão
+
+Nossa análise é a primeira a fornecer uma visão abrangente dessa carga em adultos jovens. O declínio global está relacionado à melhoria dos padrões de vida e conscientização, além das iniciativas da OMS. No entanto, o aumento da carga ligada a bebidas açucaradas entre jovens é um achado preocupante que contrasta com a população geral, refletindo hábitos de consumo específicos dessa faixa etária.
+
+Identificamos heterogeneidade regional significativa. O fardo maior em regiões de SDI baixo-médio reflete condições econômicas e investimento insuficiente em saúde. Já a tendência de alta em regiões de SDI médio pode estar ligada à urbanização rápida e à "transição nutricional", onde o consumo de alimentos processados aumenta antes que os sistemas de saúde estejam prontos para gerir doenças crônicas.
+
+A dieta pobre em grãos integrais permanece um desafio universal. Embora existam diretrizes, a adesão é baixa. Grãos integrais reduzem riscos cardiometabólicos e respostas inflamatórias. Além disso, a diferença de gênero, com homens sendo mais afetados, pode estar ligada a fatores biológicos (estrogênio protetor em mulheres) e comportamentais (homens tendem a dietas mais gordurosas).
+
+As projeções sugerem uma "mudança epidemiológica": melhorias no cuidado agudo reduzem a letalidade, mas a gestão insuficiente de doenças crônicas leva ao acúmulo de incapacidades entre os sobreviventes. Isso exige uma estratégia de via dupla: manter o cuidado agudo e priorizar a reabilitação e gestão de doenças crônicas.
+
+5. Limitações
+
+O estudo possui limitações, como possíveis variáveis de confusão (tabagismo, atividade física) e a falta de detalhes sobre métodos de preparo de alimentos ou tipos de óleos de cozinha nos dados de recordatório de 24 horas. Além disso, a exclusão da faixa de 15 a 24 anos limita a visão sobre os adultos ainda mais jovens.
+
+6. Conclusão
+
+Embora a carga tenha diminuído recentemente, ela permanece pesada em regiões de SDI baixo a médio. Os resultados fornecem uma base científica robusta para desenvolver intervenções dietéticas de precisão adaptadas a populações específicas em diferentes regiões.
